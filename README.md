@@ -13,6 +13,6 @@ Works with either Mac App Store version or non-AppStore version.
 ## Usage
 
 ```
-$ brew tap homebrew-cot
+$ brew tap jsoizo/homebrew-cot
 $ brew install cot
 ```
