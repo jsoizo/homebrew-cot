@@ -4,12 +4,6 @@ This is [Homebrew](https://github.com/mxcl/homebrew) formula for [CotEditor](htt
 
 **NOTICE** : This formula has been tested only on OS X Mavericks(10.9).
 
-## Dependency
-
-CotEditor v2.2.0+
-
-Works with either Mac App Store version or non-AppStore version.
-
 ## Usage
 
 ```
